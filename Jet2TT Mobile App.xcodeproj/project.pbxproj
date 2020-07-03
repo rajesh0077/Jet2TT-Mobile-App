@@ -80,6 +80,7 @@
 		023D7C6124AC72B900365E16 /* Jet2TT Mobile App */ = {
 			isa = PBXGroup;
 			children = (
+				023D7C7024AC72BC00365E16 /* Info.plist */,
 				023D7C7624AC72F200365E16 /* DefaultFiles */,
 				023D7C7724AC73CA00365E16 /* Modules */,
 				023D7C7824AC73D600365E16 /* NetworkManager */,
@@ -95,7 +96,6 @@
 				023D7C6424AC72B900365E16 /* SceneDelegate.swift */,
 				023D7C6B24AC72BC00365E16 /* Assets.xcassets */,
 				023D7C6D24AC72BC00365E16 /* LaunchScreen.storyboard */,
-				023D7C7024AC72BC00365E16 /* Info.plist */,
 			);
 			path = DefaultFiles;
 			sourceTree = "<group>";
@@ -413,7 +413,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "/Users/yogitabansode/Desktop/FinalTelstraDemo/Jet2TT/Final/Jet2TT Mobile App/Jet2TT Mobile App/DefaultFiles/Info.plist";
+				INFOPLIST_FILE = "Jet2TT Mobile App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -430,7 +430,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "/Users/yogitabansode/Desktop/FinalTelstraDemo/Jet2TT/Final/Jet2TT Mobile App/Jet2TT Mobile App/DefaultFiles/Info.plist";
+				INFOPLIST_FILE = "Jet2TT Mobile App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
